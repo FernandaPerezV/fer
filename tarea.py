@@ -1,7 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-
 datos=np.loadtxt('sun_AM0.dat')
 x=datos[:,0]
 y=datos[:,1]
