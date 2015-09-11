@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-import pylab as pl
+
 
 datos=np.loadtxt('sun_AM0.dat')
 x=datos[:,0]
