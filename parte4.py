@@ -1,5 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
 from scipy import integrate
 from astropy import constants as const
 from astropy import units as u
